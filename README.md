@@ -1,4 +1,3 @@
-DoinaFitchevici/README.md
 <h1 align="center">Hi 👋, I'm Doina Fitchevici</h1>
 
 <h3 align="center">
@@ -33,12 +32,10 @@ I enjoy transforming complex information into accessible, structured, and scalab
 **Software Developer | Code the Dream Project**  
 [City Bureau GitHub Organization](https://github.com/City-Bureau)
 
-I contribute to open-source civic technology by building Python-based Scrapy spiders that collect and standardize public government meeting data.
+Open-source civic technology that transforms government meeting information from public websites and APIs into consistent, accessible data.
 
-- Develop web scrapers for government meeting data across agencies in multiple states
-- Parse HTML, JSON-LD, and REST APIs to transform unstructured data into structured records
-- Implement validation workflows, timezone normalization, and automated tests to improve data accuracy
-- Support civic infrastructure that helps make public information easier to access
+- Build and maintain Python and Scrapy data pipelines for government agencies across multiple states.
+- Handle complex sources—including REST APIs, JavaScript-rendered pages, and inconsistent HTML—while improving reliability through validation and automated testing.
 
 **Tech used:** Python, Scrapy, Playwright, REST APIs, HTML Parsing, Testing
 
@@ -47,14 +44,10 @@ I contribute to open-source civic technology by building Python-based Scrapy spi
 #### 🤖 Course Builder AI  
 **Full-Stack Developer | Code the Dream Project**
 
-Course Builder AI is an AI-assisted curriculum platform that helps import, generate, revise, edit, and save structured course content.
+An AI-assisted curriculum platform for importing, generating, revising, and managing structured course and lesson content.
 
-- Built full-stack features using **React, Next.js, Node.js, and MongoDB**
-- Integrated **OpenAI API** workflows for AI-assisted lesson generation and revision
-- Helped build durable background job workflows using **DBOS and PostgreSQL** for long-running AI tasks
-- Designed REST API functionality and Redux state management for dynamic lesson editing
-- Developed Playwright end-to-end tests to improve reliability
-- Contributed to GitHub import functionality, including a React-based import modal and MongoDB persistence
+- Developed features across the React, Next.js, Node.js, and MongoDB stack, including dynamic lesson editing and GitHub course imports.
+- Integrated OpenAI-powered workflows and durable background processing for reliable, long-running lesson generation tasks.
 
 **Tech used:** Next.js, React, Node.js, MongoDB, PostgreSQL, OpenAI API, Redux, Playwright, GitHub OAuth
 
@@ -63,12 +56,10 @@ Course Builder AI is an AI-assisted curriculum platform that helps import, gener
 #### 🎁 Play-It-Forward  
 **Full-Stack Developer | Code the Dream Practicum Project**
 
-Play-It-Forward is a MERN stack application designed to help families redistribute toys and support community reuse.
+A community-focused MERN application that helps families exchange toys, encourage reuse, and reduce waste.
 
-- Built real-time messaging functionality to connect users
-- Designed backend message schemas and RESTful API routes
-- Developed responsive chat UI components for accessibility across devices
-- Contributed to a sustainability-focused platform that supports community-driven reuse
+- Built the messaging experience across the backend API and responsive React interface.
+- Collaborated on a full-stack product that connects families and supports sustainable, community-driven sharing.
 
 **Tech used:** MongoDB, Express, React, Node.js, REST APIs, Responsive UI
 
